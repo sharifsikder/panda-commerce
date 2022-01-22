@@ -8,3 +8,14 @@
 .card{
     border:0 !important
 }
+.subscribe{
+    background-color: #FCEAE8;
+    border-radius: 8px !important;
+    
+}
+
+.input{
+    border: 0 !important;
+    border-radius: 5px;
+    
+}
